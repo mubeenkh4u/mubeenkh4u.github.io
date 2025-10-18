@@ -26,8 +26,8 @@ Completing the Computer Science program has prepared me to engage with complex t
 ## Capstone Artifacts and Enhancements
 
 ### 1. Software Design and Engineering
-**Artifact:** [animal_shelter.py (Milestone Two)](artifacts/1.software_design/e1_animal_shelter.py)  
-**Narrative:** [Software Design Narrative](artifacts/1.software_design/narrative_software_design.md)
+**Artifact:** [animal_shelter.py (Milestone Two)](artifacts/1.software_design/e1_animal_shelter.py)
+**Narrative:** [Software Design Narrative](artifacts/1.software_design/narrative.md)
 
 **Enhancements Implemented:**
 - Added comprehensive documentation and type annotations.  
@@ -38,8 +38,8 @@ Completing the Computer Science program has prepared me to engage with complex t
 ---
 
 ### 2. Algorithms and Data Structures
-**Artifact:** [animal_shelter.py (Milestone Three)](artifacts/2.algorithms/e2_animal_shelter.py)  
-**Narrative:** [Algorithms and Data Structures Narrative](artifacts/2.algorithms/narrative_algorithms.md)
+**Artifact:** [animal_shelter.py (Milestone Three)](artifacts/2.algorithms/e2_animal_shelter.py)
+**Narrative:** [Algorithms and Data Structures Narrative](artifacts/2.algorithms/narrative.md)
 
 **Enhancements Implemented:**
 - Introduced caching algorithms to improve response time.  
@@ -50,8 +50,8 @@ Completing the Computer Science program has prepared me to engage with complex t
 ---
 
 ### 3. Databases
-**Artifact:** [animal_shelter.py (Milestone Four)](artifacts/3.databases/animal_shelter.py)  
-**Narrative:** [Databases Narrative](artifacts/3.databases/narrative_databases.md)
+**Artifact:** [animal_shelter.py (Milestone Four)](artifacts/3.databases/e3_animal_shelter.py)
+**Narrative:** [Databases Narrative](artifacts/3.databases/narrative.md)
 
 **Enhancements Implemented:**
 - Implemented MongoDB `$jsonSchema` validation for data integrity.  
@@ -63,8 +63,8 @@ Completing the Computer Science program has prepared me to engage with complex t
 
 ## Code Review
 
-**Video Presentation:** [Watch Code Review on YouTube](https://youtu.be/ziDEvxnYvEU)  
-**Files:** [Code Review Materials](code_review/)
+**Video Presentation:** [Watch Code Review on YouTube](https://youtu.be/ziDEvxnYvEU)
+**Files:** [Code Review Materials](code_review/code_review.md)
 
 The code review presents the original artifact, analyzes its design and structure, and explains the enhancement plan. It demonstrates professional communication, technical accuracy, and the ability to plan and justify design improvements effectively.
 
@@ -72,9 +72,9 @@ The code review presents the original artifact, analyzes its design and structur
 
 ## Supporting Materials
 
-- [ProjectTwoDashboard.ipynb (Final Dashboard)](dashboard/ProjectTwoDashboard.ipynb)  
-- [Test Suite](tests/)  
-- [Original Artifacts](originals/)  
+- [ProjectTwoDashboard.ipynb (Final Dashboard)](dashboard/ProjectTwoDashboard.ipynb)
+- [Test Suite](dashboard/tests/)
+- [Original Artifacts](originals/)
 - [Repository Documentation](README.md)
 
 ---
@@ -95,7 +95,7 @@ The code review presents the original artifact, analyzes its design and structur
 
 This ePortfolio serves as the final capstone project for the Bachelor of Science in Computer Science program at Southern New Hampshire University. It integrates coursework, applied projects, and professional reflection to demonstrate readiness for technical roles in the software development and data engineering fields.
 
-**GitHub Repository:** [View Repository](https://github.com/mubeenkh4u/CS499-Eportfolio)  
+**GitHub Repository:** [View Repository](https://github.com/mubeenkh4u/mubeenkh4u.github.io)
 **Contact:** [LinkedIn](https://linkedin.com/in/mubeenkh4u) | [GitHub](https://github.com/mubeenkh4u)
 
 ---
