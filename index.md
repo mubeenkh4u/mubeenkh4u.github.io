@@ -1,7 +1,7 @@
 <!-- Navigation Bar -->
 <nav style="text-align:center;">
-  <a href="#overview/" style="color:black; margin:0 1rem; text-decoration:none; font-weight:500;">Overview</a>
-  <a href="#code-review/" style="color:black; margin:0 1rem; text-decoration:none; font-weight:500;">Code Review</a>
+  <a href="#overview" style="color:black; margin:0 1rem; text-decoration:none; font-weight:500;">Overview</a>
+  <a href="#code-review" style="color:black; margin:0 1rem; text-decoration:none; font-weight:500;">Code Review</a>
   <a href="#capstone-artifacts-and-enhancements" style="color:black; margin:0 1rem; text-decoration:none; font-weight:500;">Enhancements</a>
   <a href="artifacts/1.software_design/narrative.md" style="color:black; margin:0 1rem; text-decoration:none; font-weight:500;">Software Design</a>
   <a href="artifacts/2.algorithms/narrative.md" style="color:black; margin:0 1rem; text-decoration:none; font-weight:500;">Algorithms</a>
