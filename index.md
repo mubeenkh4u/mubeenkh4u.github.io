@@ -1,3 +1,14 @@
+<!-- Navigation Bar -->
+<nav style="text-align:center; background:#004080; padding:0.8rem 0;">
+  <a href="./" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Home</a>
+  <a href="#capstone-artifacts-and-enhancements" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Enhancements</a>
+  <a href="artifacts/software_design/narrative_software_design.md" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Software Design</a>
+  <a href="artifacts/algorithms/narrative_algorithms.md" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Algorithms</a>
+  <a href="artifacts/databases/narrative_databases.md" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Databases</a>
+  <a href="code_review/" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Code Review</a>
+  <a href="https://github.com/mubeenkh4u/CS499-Eportfolio" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Repository</a>
+</nav>
+
 # CS-499 Computer Science Capstone
 
 Welcome to my Computer Science Capstone ePortfolio for Southern New Hampshire University.  
@@ -18,6 +29,14 @@ Collaboration and communication have been essential to all enhancements. I recor
 Research on emerging technologies, including quantum computing and generative artificial intelligence, further expanded my technical perspective. These fields highlight the continuous evolution of computer science and its impact on cybersecurity and data analytics, both of which connect directly to my professional goals. I plan to apply my skills as a cybersecurity specialist or data engineer, where I can design and maintain secure, high-performance systems supported by strong data governance practices.
 
 Completing the Computer Science program has prepared me to engage with complex technical challenges using sound engineering principles, ethical awareness, and critical thinking. Through this ePortfolio, I demonstrate proficiency across all five program outcomes: collaborating effectively in technical environments, communicating through professional documentation and visual design, developing algorithmic and data-driven solutions, employing innovative computing tools, and maintaining a proactive approach to software security. I approach future challenges with confidence and a commitment to excellence in software engineering and data analytics.
+
+## Overview
+
+This repository contains my **Computer Science Capstone ePortfolio**, completed as part of the Bachelor of Science in Computer Science program at Southern New Hampshire University.  
+The project integrates and demonstrates my mastery of the five program outcomes in software engineering, algorithmic design, database management, communication, and security.
+
+The central artifact for this capstone is the **Animal Shelter CRUD Module**, developed and enhanced through iterative milestones to demonstrate advanced design, performance, and security principles.  
+It connects to a MongoDB database and powers a Dash/Jupyter-based analytics dashboard for managing and visualizing animal shelter data.
 
 ## Code Review
 
