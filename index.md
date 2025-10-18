@@ -3,8 +3,6 @@
 Welcome to my Computer Science Capstone ePortfolio for Southern New Hampshire University.  
 This portfolio represents the culmination of my academic work in the Bachelor of Science in Computer Science program. It demonstrates my ability to design, implement, and evaluate computing solutions that address real-world challenges. The ePortfolio includes a professional self-assessment, enhanced artifacts, and narratives that illustrate mastery of software engineering, algorithms and data structures, and database design. Each section aligns with the five program outcomes that define the Computer Science curriculum.
 
----
-
 ## Professional Self-Assessment
 
 My academic journey through the Computer Science program at Southern New Hampshire University has been both technical and transformative. Since beginning in December 2022, I have developed from an aspiring developer into a professional who understands the importance of designing secure, maintainable, and data-driven software systems. The capstone experience integrates the knowledge I have acquired throughout the program and provides evidence of my readiness to contribute effectively to the technology industry.
@@ -21,8 +19,6 @@ Research on emerging technologies, including quantum computing and generative ar
 
 Completing the Computer Science program has prepared me to engage with complex technical challenges using sound engineering principles, ethical awareness, and critical thinking. Through this ePortfolio, I demonstrate proficiency across all five program outcomes: collaborating effectively in technical environments, communicating through professional documentation and visual design, developing algorithmic and data-driven solutions, employing innovative computing tools, and maintaining a proactive approach to software security. I approach future challenges with confidence and a commitment to excellence in software engineering and data analytics.
 
----
-
 ## Capstone Artifacts and Enhancements
 
 ### 1. Software Design and Engineering
@@ -35,7 +31,7 @@ Completing the Computer Science program has prepared me to engage with complex t
 - Added fast-fail connection checks and input validation.  
 - Improved code structure to enhance maintainability and readability.
 
----
+**Repository Link:** [Visit the Repository](https://github.com/mubeenkh4u/Enhancement_One)
 
 ### 2. Algorithms and Data Structures
 **Artifact:** [animal_shelter.py (Milestone Three)](artifacts/2.algorithms/e2_animal_shelter.py)
@@ -47,7 +43,7 @@ Completing the Computer Science program has prepared me to engage with complex t
 - Refactored query logic for performance and scalability.  
 - Expanded test coverage to verify algorithmic efficiency.
 
----
+**Repository Link:** [Visit the Repository](https://github.com/mubeenkh4u/Enhancement_Two)
 
 ### 3. Databases
 **Artifact:** [animal_shelter.py (Milestone Four)](artifacts/3.databases/e3_animal_shelter.py)
@@ -59,7 +55,7 @@ Completing the Computer Science program has prepared me to engage with complex t
 - Designed aggregation pipelines for server-side analytics.  
 - Integrated error handling and environment-driven configuration.
 
----
+**Repository Link:** [Visit the Repository](https://github.com/mubeenkh4u/Enhancement_Three)
 
 ## Code Review
 
@@ -68,16 +64,15 @@ Completing the Computer Science program has prepared me to engage with complex t
 
 The code review presents the original artifact, analyzes its design and structure, and explains the enhancement plan. It demonstrates professional communication, technical accuracy, and the ability to plan and justify design improvements effectively.
 
----
-
 ## Supporting Materials
 
 - [ProjectTwoDashboard.ipynb (Final Dashboard)](dashboard/ProjectTwoDashboard.ipynb)
 - [Test Suite](dashboard/tests/)
 - [Original Artifacts](originals/)
 - [Repository Documentation](README.md)
-
----
+- [Enhancement One Repository](https://github.com/mubeenkh4u/Enhancement_One)
+- [Enhancement Two Repository](https://github.com/mubeenkh4u/Enhancement_Two)
+- [Enhancement Three Repository](https://github.com/mubeenkh4u/Enhancement_Three)
 
 ## Program Outcomes Demonstrated
 
@@ -88,8 +83,6 @@ The code review presents the original artifact, analyzes its design and structur
 | **Algorithmic Design and Evaluation** | Applied algorithmic reasoning to improve performance through caching, validation, and query optimization. |
 | **Innovative Computing Practices** | Utilized modern frameworks, tools, and methods including MongoDB, Dash, and PyTest to create efficient software solutions. |
 | **Security Mindset** | Implemented input validation, safe query operations, and database schema enforcement to prevent vulnerabilities and protect data. |
-
----
 
 ## About This Portfolio
 
