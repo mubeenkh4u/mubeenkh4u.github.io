@@ -5,8 +5,6 @@
 **Instructor:** Dr. Pravin Bhandari  
 **Final Submission:** 2025  
 
----
-
 ## Overview
 
 This repository contains my **Computer Science Capstone ePortfolio**, completed as part of the Bachelor of Science in Computer Science program at Southern New Hampshire University.  
@@ -15,7 +13,11 @@ The project integrates and demonstrates my mastery of the five program outcomes 
 The central artifact for this capstone is the **Animal Shelter CRUD Module**, developed and enhanced through iterative milestones to demonstrate advanced design, performance, and security principles.  
 It connects to a MongoDB database and powers a Dash/Jupyter-based analytics dashboard for managing and visualizing animal shelter data.
 
----
+## Code Review
+
+A comprehensive walkthrough of the artifact’s original design, issues identified, and enhancement plan can be viewed here:
+
+**[Watch Code Review Video](https://youtu.be/ziDEvxnYvEU)**
 
 ## Repository Contents
 
@@ -26,8 +28,6 @@ It connects to a MongoDB database and powers a Dash/Jupyter-based analytics dash
 | `/dashboard` | The Dash and Jupyter Notebook dashboard that visualizes MongoDB data. |
 | `/originals` | Original unenhanced artifacts for comparison. |
 | `dashboard/tests` | Unit and integration tests for CRUD functions, caching, and database operations. |
-
----
 
 ## Project Highlights
 
@@ -49,8 +49,6 @@ Strengthened database reliability with:
 - Compound and geospatial indexing for query performance.
 - Aggregation pipelines for server-side analytics.
 
----
-
 ## Technology Stack
 
 - **Programming Language:** Python 3.10  
@@ -61,23 +59,11 @@ Strengthened database reliability with:
 - **Version Control:** Git & GitHub  
 - **Recording Tools:** OBS Studio  
 
----
-
-## Code Review
-
-A comprehensive walkthrough of the artifact’s original design, issues identified, and enhancement plan can be viewed here:
-
-**[Watch Code Review Video](https://youtu.be/ziDEvxnYvEU)**
-
----
-
 ## ePortfolio Website
 
 The complete ePortfolio website, hosted via **GitHub Pages**, includes the professional self-assessment, narratives, and artifact links.
 
-🔗 **View the Portfolio:** [https://mubeenkh4u.github.io/](https://mubeenkh4u.github.io/)
-
----
+**View the Portfolio:** [https://mubeenkh4u.github.io/](https://mubeenkh4u.github.io/)
 
 ## Program Outcomes Demonstrated
 
@@ -86,8 +72,6 @@ The complete ePortfolio website, hosted via **GitHub Pages**, includes the profe
 3. **Algorithmic Design and Evaluation** – Implemented caching and efficient query solutions.  
 4. **Innovative Computing Practices** – Used modern tools and frameworks to build maintainable systems.  
 5. **Security Mindset** – Enforced validation, safe queries, and schema enforcement to protect data integrity.
-
----
 
 ## Pre-requisites
 
