@@ -1,6 +1,6 @@
 <!-- Navigation Bar -->
 <nav style="text-align:center; background-image: linear-gradient(120deg, #155799, #159957); padding:0.8rem 0;">
-    <a href="./">...</a>
+    <a href="./"></a>
     <a href="#overview" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Overview</a>
     <a href="#code-review" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Code Review</a>
     <a href="#capstone-artifacts-and-enhancements" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Enhancements</a>
