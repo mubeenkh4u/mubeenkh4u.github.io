@@ -1,11 +1,12 @@
 <!-- Navigation Bar -->
-<nav style="text-align:center;">
-  <a href="#overview" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Overview</a>
-  <a href="#code-review" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Code Review</a>
-  <a href="#capstone-artifacts-and-enhancements" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Enhancements</a>
-  <a href="artifacts/1.software_design/narrative.html" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Software Design</a>
-  <a href="artifacts/2.algorithms/narrative.html" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Algorithms</a>
-  <a href="artifacts/3.databases/narrative.html" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Databases</a>
+<nav style="text-align:center; background-image: linear-gradient(120deg, #155799, #159957); padding:0.8rem 0;">
+    <a href="./">...</a>
+    <a href="#overview" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Overview</a>
+    <a href="#code-review" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Code Review</a>
+    <a href="#capstone-artifacts-and-enhancements" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Enhancements</a>
+    <a href="artifacts/1.software_design/narrative.html" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Software Design</a>
+    <a href="artifacts/2.algorithms/narrative.html" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Algorithms</a>
+    <a href="artifacts/3.databases/narrative.html" style="color:black; margin:0 1rem; text-decoration-style:solid; font-weight:500;">Databases</a>
 </nav>
 
 # CS-499 Computer Science Capstone
