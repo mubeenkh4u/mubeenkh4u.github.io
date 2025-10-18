@@ -19,6 +19,13 @@ Research on emerging technologies, including quantum computing and generative ar
 
 Completing the Computer Science program has prepared me to engage with complex technical challenges using sound engineering principles, ethical awareness, and critical thinking. Through this ePortfolio, I demonstrate proficiency across all five program outcomes: collaborating effectively in technical environments, communicating through professional documentation and visual design, developing algorithmic and data-driven solutions, employing innovative computing tools, and maintaining a proactive approach to software security. I approach future challenges with confidence and a commitment to excellence in software engineering and data analytics.
 
+## Code Review
+
+**Video Presentation:** [Watch Code Review on YouTube](https://youtu.be/ziDEvxnYvEU)
+**Files:** [Code Review Materials](code_review/code_review.md)
+
+The code review presents the original artifact, analyzes its design and structure, and explains the enhancement plan. It demonstrates professional communication, technical accuracy, and the ability to plan and justify design improvements effectively.
+
 ## Capstone Artifacts and Enhancements
 
 ### 1. Software Design and Engineering
@@ -56,13 +63,6 @@ Completing the Computer Science program has prepared me to engage with complex t
 - Integrated error handling and environment-driven configuration.
 
 **Repository Link:** [Visit the Repository](https://github.com/mubeenkh4u/Enhancement_Three)
-
-## Code Review
-
-**Video Presentation:** [Watch Code Review on YouTube](https://youtu.be/ziDEvxnYvEU)
-**Files:** [Code Review Materials](code_review/code_review.md)
-
-The code review presents the original artifact, analyzes its design and structure, and explains the enhancement plan. It demonstrates professional communication, technical accuracy, and the ability to plan and justify design improvements effectively.
 
 ## Supporting Materials
 
