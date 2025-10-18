@@ -4,9 +4,9 @@
   <a href="#overview/" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Overview</a>
   <a href="#code-review/" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Code Review</a>
   <a href="#capstone-artifacts-and-enhancements" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Enhancements</a>
-  <a href="artifacts/software_design/narrative.md" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Software Design</a>
-  <a href="artifacts/algorithms/narrative.md" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Algorithms</a>
-  <a href="artifacts/databases/narrative.md" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Databases</a>
+  <a href="artifacts/1.software_design/narrative.md" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Software Design</a>
+  <a href="artifacts/2.algorithms/narrative.md" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Algorithms</a>
+  <a href="artifacts/3.databases/narrative.md" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Databases</a>
   <a href="https://github.com/mubeenkh4u/mubeenkh4u.github.io" style="color:white; margin:0 1rem; text-decoration:none; font-weight:500;">Repository</a>
 </nav>
 
