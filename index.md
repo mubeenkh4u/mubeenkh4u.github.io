@@ -1,6 +1,5 @@
 <!-- Navigation Bar -->
 <nav style="text-align:center;">
-  <a href="./" style="color:black; margin:0 1rem; text-decoration:none; font-weight:500;">Home</a>
   <a href="#overview/" style="color:black; margin:0 1rem; text-decoration:none; font-weight:500;">Overview</a>
   <a href="#code-review/" style="color:black; margin:0 1rem; text-decoration:none; font-weight:500;">Code Review</a>
   <a href="#capstone-artifacts-and-enhancements" style="color:black; margin:0 1rem; text-decoration:none; font-weight:500;">Enhancements</a>
