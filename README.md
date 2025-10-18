@@ -1,4 +1,4 @@
-# CS-499 Computer Science Capstone — Mubeen Ahmed Khan
+# CS-499 Computer Science Capstone
 
 ### Bachelor of Science in Computer Science  
 **Southern New Hampshire University (SNHU)**  

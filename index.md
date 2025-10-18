@@ -1,4 +1,4 @@
-# Mubeen Ahmed Khan — CS-499 Computer Science Capstone
+# CS-499 Computer Science Capstone
 
 Welcome to my Computer Science Capstone ePortfolio for Southern New Hampshire University.  
 This portfolio represents the culmination of my academic work in the Bachelor of Science in Computer Science program. It demonstrates my ability to design, implement, and evaluate computing solutions that address real-world challenges. The ePortfolio includes a professional self-assessment, enhanced artifacts, and narratives that illustrate mastery of software engineering, algorithms and data structures, and database design. Each section aligns with the five program outcomes that define the Computer Science curriculum.
