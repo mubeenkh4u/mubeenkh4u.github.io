@@ -1,0 +1,13 @@
+# ----------------------------
+# Site configuration for CS-499 ePortfolio
+# ----------------------------
+
+title: "Mubeen Ahmed Khan — CS-499 ePortfolio"
+description: "Southern New Hampshire University | Bachelor of Science in Computer Science Capstone"
+theme: jekyll-theme-cayman
+markdown: kramdown
+show_downloads: false
+
+# Optional metadata
+github:
+  is_project_page: true
