@@ -8,12 +8,13 @@ class AnimalShelter:
     def __init__(self, username='aacuser', password='MAK1234'):
         # USER = 'aacuser'
         # PASS = 'MAK1234'
-        HOST = '127.0.0.1'
-        PORT = 27017
+        HOST = 'nv-desktop-services.apporto.com'
+        PORT = 34884
         DB = 'aac'
         COL = 'animals'
+
         try:
-            self.client = MongoClient(f'mongodb://{username}:{password}@{HOST}:{PORT}/aac?authSource=aac')
+            self.client = MongoClient(f'mongodb://{username}:{password}@{HOST}:{PORT}')
             self.database = self.client[DB]
             self.collection = self.database[COL]
         except PyMongoError as e:
