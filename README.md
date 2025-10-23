@@ -26,7 +26,7 @@ A comprehensive walkthrough of the artifact’s original design, issues identifi
 | `/artifacts` | Contains enhanced artifacts and narratives for software design, algorithms, and databases. |
 | `/code_review` | Code review materials, including a professional walkthrough video. |
 | `/dashboard` | The Dash and Jupyter Notebook dashboard that visualizes MongoDB data. |
-| `/originals` | Original unenhanced artifacts for comparison. |
+| `/originals` | Original unenhanced artifacts for comparison. Using this will require Dash 2.7. |
 | `dashboard/tests` | Unit and integration tests for CRUD functions, caching, and database operations. |
 
 ## Project Highlights
