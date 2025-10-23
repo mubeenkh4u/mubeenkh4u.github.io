@@ -86,8 +86,8 @@ The code review presents the original artifact, analyzes its design and structur
 ## Supporting Materials
 
 - [ProjectTwoDashboard.ipynb (Final Dashboard)](dashboard/ProjectTwoDashboard.ipynb)
-- [Test Suite](dashboard/tests/)
-- [Original Artifacts](originals/)
+- [Test Suite](https://github.com/mubeenkh4u/mubeenkh4u.github.io/tree/main/dashboard/tests/)
+- [Original Artifacts](https://github.com/mubeenkh4u/mubeenkh4u.github.io/tree/main/originals)
 - [Repository Documentation](README.md)
 - [Enhancement One Repository](https://github.com/mubeenkh4u/Enhancement_One)
 - [Enhancement Two Repository](https://github.com/mubeenkh4u/Enhancement_Two)
